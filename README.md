@@ -7,8 +7,9 @@ HOWTO: <br/>
   - power off;
   - hold press the volume down button and press the power button;
   - look for the hboot version it should be written in the second line it will ether be 0.93 or 1.02;
-  - press the power button again to go into fastboot, use the volume buttons and select reboot and then press the power button; <br/>
-  - 
+  - press the power button again to go into fastboot, use the volume buttons and select reboot and then press the power button;
+
+
 5. unpack revolutionary-0.4pre4.zip and run it(if it says that it's already s-off then go to 6)
   - goto http://revolutionary.io/
   - click download(you don't need to download it) a window should appear saying Beta key.
