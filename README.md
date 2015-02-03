@@ -1,5 +1,6 @@
 # AndroidRootUpgrade
 HOWTO:
+
 1: Install HTC_Treiber_v4.0.1.001.exe
 2: unpack HTC_Desire_Android_2.3_Upgrade.rar and run it.
 3: After it is done go into settings -> application -> disable fastboot, then goto -> development -> enable usb debugging.
