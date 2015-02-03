@@ -1,4 +1,5 @@
 # AndroidRootUpgrade
+## Android 2.x.x -> 4.4.2
 HOWTO: <br>
 1: Install HTC_Treiber_v4.0.1.001.exe <br>
 2: unpack HTC_Desire_Android_2.3_Upgrade.rar and run it.<br>
